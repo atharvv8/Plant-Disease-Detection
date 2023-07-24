@@ -4,7 +4,7 @@ This repository contains the code and dataset used to train a Convolutional Neur
 
 ## Dataset
 
-The "Augmented Plant Diseases" dataset is divided into two subsets: training and validation. The dataset can be obtained from [link to the dataset source if available]. The images in the dataset have been resized to (256x256) pixels.
+The "Augmented Plant Diseases" dataset is divided into two subsets: training and validation. The dataset can be obtained from [https://www.kaggle.com/datasets/hrishabhdigaari10/phyto-plant-disease-detection]. The images in the dataset have been resized to (256x256) pixels.
 
 ## Model Architecture
 
