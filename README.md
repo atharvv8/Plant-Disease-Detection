@@ -49,7 +49,7 @@ The true labels and model predictions are stored for further analysis and compar
 
 ## Note
 
-Please ensure that you have the required dependencies and the "Augmented Plant Diseases" dataset in the specified directory before running the code. The dataset can be obtained from [provide the dataset source link if available].
+Please ensure that you have the required dependencies and the "Augmented Plant Diseases" dataset in the specified directory before running the code.
 
 Feel free to experiment with the model architecture, hyperparameters, and data augmentation techniques to improve the model's performance further.
 
